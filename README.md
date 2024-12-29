@@ -24,3 +24,6 @@ Ayrıca "L1 ve L2 regularizasyon" uygulanıp performans kıyaslama yapılmışt�
 
 
 ![image](https://github.com/user-attachments/assets/01deb799-fc3d-4849-a93c-23e2a3289a4d)
+
+![image](https://github.com/user-attachments/assets/21920936-2a3c-4d1c-8c01-2ffc58452090)
+
